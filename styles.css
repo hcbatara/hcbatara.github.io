@@ -1,6 +1,6 @@
 body {
     font-family: Monaco, monospace;
-    margin: 20;
+    margin: 0;
     padding: 50px;
     background-color: #f4f4f4;
 }
@@ -36,7 +36,7 @@ img {
 }
 
 footer {
-    margin: 20;
+    margin: 0;
     background-color: #f4f4f4;
     font-family: Monaco, monospace;
     color: rgb(1, 1, 1);
